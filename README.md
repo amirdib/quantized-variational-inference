@@ -1,6 +1,6 @@
 ![Python version](https://img.shields.io/pypi/pyversions/Django.svg?style=for-the-badge)
 
-**This repository is the official implementation of Quantized Variational Inference.**
+**This repository is the official implementation of Quantized Variational Inference (NeurIPS 2020).**
 
 ## Install
 Install python requirements in your virtual environnement:
